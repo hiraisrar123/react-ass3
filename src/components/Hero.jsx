@@ -21,20 +21,14 @@ const Hero = () => {
       {/* Circle Images */}
       <div className="flex justify-center gap-6 mt-10">
         <img
-          src="https://via.placeholder.com/120"
-          className="w-28 h-28 rounded-full"
-        />
-        <img
-          src="https://via.placeholder.com/120"
-          className="w-28 h-28 rounded-full"
-        />
-        <img
-          src="https://via.placeholder.com/120"
+          src="public/img1.png"
           className="w-28 h-28 rounded-full"
         />
       </div>
 
     </section>
+
+    
   );
 };
 
