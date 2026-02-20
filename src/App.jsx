@@ -2,6 +2,7 @@ import { Home } from "lucide-react";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import TrustedSection from "./components/TrustedSection";
+import AwardsSection from "./components/AwardsSection";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Navbar />
       <Hero/>
       <TrustedSection/>
+      <AwardsSection/>
     </>
   );
 }
