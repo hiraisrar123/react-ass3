@@ -51,12 +51,11 @@ export default function TrustedSection() {
           </button>
         </div>
 
-        {/* Placeholder image instead of local import */}
-        <div className="flex justify-center">
-          <div className="w-full h-64 bg-gray-200 rounded-lg flex items-center justify-center">
-            <span className="text-gray-500">Team Image Here</span>
-          </div>
-        </div>
+<div className="flex justify-center">
+  <div className="w-full h-64 bg-gray-200 rounded-lg flex items-center justify-center">
+    <span className="text-gray-500">Team Image Here</span>
+  </div>
+</div>
       </div>
     </div>
   );
